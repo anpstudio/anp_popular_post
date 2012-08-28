@@ -1,0 +1,73 @@
+/* @override http://actualidadg.com/wp-content/plugins/anp_popular_post/css/anp_popular_post.css?ver=3.4.1 */
+
+ul.num_post_list{
+	float: left;
+	padding: 10px;
+	margin: 0px;
+	width: 91%;
+	
+}
+li.post {
+	list-style: none;
+	width: 100%;
+	font-size: 13px;
+	margin: 0px !important;
+	float: left;
+	padding: 0px!important;
+	display: inline;
+	color: #0f0f0f;
+	position: relative;
+	line-height: 17px;
+	
+}
+li.post a{
+	padding: 0px 10px;
+	color: #0f0f0f;
+	display: block;
+	margin: 0px !important;
+}
+li.post a:hover{
+	padding: 0px 10px;
+	color: #fff;
+	display: block;
+}
+.a1{
+	background: no-repeat left top rgba(238, 68, 68, 0.7);
+	width: 100%;
+
+}
+.a2{
+	background: no-repeat left top rgba(38, 37, 243, 0.72);
+	width: 95% !important;
+	position: relative;
+	bottom: 10px;
+}
+.a3{
+	background: no-repeat left top rgba(15, 241, 50, 0.75);
+	width: 90% !important;
+	position: relative;
+	bottom: 20px;
+}
+.a4{
+	background: no-repeat left top rgba(247, 230, 26, 0.73);
+	width: 80% !important;
+	position: relative;
+	bottom: 30px;
+}
+.a5{
+	background: no-repeat left top rgba(151, 8, 148, 0.77);
+	width: 70% !important;
+	position: relative;
+	bottom: 40px;
+}
+
+div.num_com{
+	float: right;
+	padding: 5px 12px;
+	position: relative;
+	bottom: 15px;
+	left: 15px;
+	background-color: #534e4e;
+	color: #fff;
+	
+}
