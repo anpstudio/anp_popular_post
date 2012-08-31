@@ -34,59 +34,59 @@ li.post a:hover{
 	display: block;
 }
 .a1{
-	background: no-repeat left top rgba(187, 5, 5, 0.85);
+	background: no-repeat left top rgba(2,73,48 , 0.85);
 	width: 100%;
 }
 .a2{
-	background: no-repeat left top rgba(249, 30, 30, 0.85);
+	background: no-repeat left top rgba(0,86,63, 0.85);
 	width: 95% !important;
 	position: relative;
 	bottom: 10px;
 }
 .a3{
-	background: no-repeat left top rgba(249, 88, 88, 0.85);
+	background: no-repeat left top rgba(0,104,71, 0.85);
 	width: 90% !important;
 	position: relative;
 	bottom: 20px;
 }
 .a4{
-	background: no-repeat left top rgba(230, 182, 5, 0.85);
+	background: no-repeat left top rgba(0,107,84, 0.85);
 	width: 85% !important;
 	position: relative;
 	bottom: 30px;
 }
 .a5{
-	background: no-repeat left top rgba(251, 210, 58, 0.85);
+	background: no-repeat left top rgba(0,124,89, 0.85);
 	width: 80% !important;
 	position: relative;
 	bottom: 40px;
 }
 .a6{
-	background: no-repeat left top rgba(238, 247, 19, 0.85);
+	background: no-repeat left top rgba(0,178,122, 0.85);
 	width: 75% !important;
 	position: relative;
 	bottom: 50px;
 }
 .a7{
-	background: no-repeat left top rgba(239, 246, 67, 0.85);
+	background: no-repeat left top rgba(0,201,147, 0.85);
 	width: 70% !important;
 	position: relative;
 	bottom: 60px;
 }
 .a8{
-	background: no-repeat left top rgba(5, 112, 218, 0.85);
+	background: no-repeat left top rgba(84,216,168, 0.85);
 	width: 65% !important;
 	position: relative;
 	bottom: 70px;
 }
 .a9{
-	background: no-repeat left top rgba(68, 160, 250, 0.85);
+	background: no-repeat left top rgba(142,226,188, 0.85);
 	width: 60% !important;
 	position: relative;
 	bottom: 80px;
 }
 .a10{
-	background: no-repeat left top rgba(101, 177, 251, 0.85);
+	background: no-repeat left top rgba(155,219,193, 0.85);
 	width: 55% !important;
 	position: relative;
 	bottom: 90px;
