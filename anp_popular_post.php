@@ -4,7 +4,7 @@ Plugin Name: anp_popular_post
 Plugin URI: http://www.anpstudio.com/blog/2012/04/02/cw-author-info-nuevo-plugin-para-mostrar-informacion-de-los-redactores-de-un-blog/ 
 Description: 
 Author: antocara
-Version: 1.0
+Version: 1.1
 Author URI: http://www.anpstudio.com
 */
 /*
