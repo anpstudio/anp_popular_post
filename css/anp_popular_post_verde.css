@@ -1,104 +1,109 @@
-/* @override http://localhost:8888/wordpress/wp-content/plugins/anp_popular_post/css/anp_popular_post.css?ver=3.4.1 */
-
-/* @override http://actualidadg.com/wp-content/plugins/anp_popular_post/css/anp_popular_post.css?ver=3.4.1 */
-
-ul.num_post_list{
+div.num_post_list{
 	padding: 10px !important;
 	margin: 0px;
-	width: 91%;
-	
+	width: 90%;
 }
-li.post {
-	list-style: none;
+div.num_post_list #anp_credit{
+	font-size: 10px;
+	clear: both;
+}
+div.num_post_list div.post {
 	width: 100%;
 	font-size: 13px;
 	margin: 0px !important;
 	float: left;
-	padding: 0px!important;
-	display: inline;
+	padding: 5px 0px!important;
+	display: inline !important;
 	color: #0f0f0f;
 	position: relative;
-	line-height: 17px;
+	line-height: 17px !important;
 	clear: both;
-	
+	border: none !important;	
 }
-li.post a{
+div.num_post_list div.post a{
 	padding: 0px 10px;
 	color: #0f0f0f;
 	display: block;
 	margin: 0px !important;
 }
-li.post a:hover{
+div.num_post_list div.tex_anp{
+	padding: 9px 0px;
+	width: 100%;
+}
+div.num_post_list div.post a:hover{
 	padding: 0px 10px;
 	color: #fff;
 	display: block;
 }
-.a1{
-	background: no-repeat left top rgba(2,73,48 , 0.85);
-	width: 100%;
-}
-.a2{
-	background: no-repeat left top rgba(0,86,63, 0.85);
-	width: 95% !important;
-	position: relative;
-	bottom: 10px;
-}
-.a3{
-	background: no-repeat left top rgba(0,104,71, 0.85);
-	width: 90% !important;
-	position: relative;
-	bottom: 20px;
-}
-.a4{
-	background: no-repeat left top rgba(0,107,84, 0.85);
-	width: 85% !important;
-	position: relative;
-	bottom: 30px;
-}
-.a5{
-	background: no-repeat left top rgba(0,124,89, 0.85);
-	width: 80% !important;
-	position: relative;
-	bottom: 40px;
-}
-.a6{
-	background: no-repeat left top rgba(0,178,122, 0.85);
-	width: 75% !important;
-	position: relative;
-	bottom: 50px;
-}
-.a7{
-	background: no-repeat left top rgba(0,201,147, 0.85);
-	width: 70% !important;
-	position: relative;
-	bottom: 60px;
-}
-.a8{
-	background: no-repeat left top rgba(84,216,168, 0.85);
-	width: 65% !important;
-	position: relative;
-	bottom: 70px;
-}
-.a9{
-	background: no-repeat left top rgba(142,226,188, 0.85);
-	width: 60% !important;
-	position: relative;
-	bottom: 80px;
-}
-.a10{
-	background: no-repeat left top rgba(155,219,193, 0.85);
-	width: 55% !important;
-	position: relative;
-	bottom: 90px;
-}
-
-div.num_com{
+div.num_post_list div.num_com{
 	float: right;
 	padding: 5px 12px;
 	position: relative;
-	bottom: 15px;
+	bottom: 5px;
 	left: 15px;
 	background-color: #534e4e;
 	color: #fff;
+}
+.a1{
+	background: rgba(2,73,48 , 0.85)!important;
+	width: 100%;
 	
+}
+.a2{
+	background: rgba(0,86,63, 0.85)!important;
+	width: 95% !important;
+	position: relative;
+	bottom: 6px;
+
+}
+.a3{
+	background: rgba(0,104,71, 0.85)!important;
+	width: 90% !important;
+	position: relative;
+	bottom: 12px;
+}
+.a4{
+	background: rgba(0,107,84, 0.85)!important;
+	width: 85% !important;
+	position: relative;
+	bottom: 18px;
+	
+}
+.a5{
+	background: rgba(0,124,89, 0.85)!important;
+	width: 80% !important;
+	position: relative;
+	bottom: 24px;
+	
+}
+.a6{
+	background: rgba(0,178,122, 0.85)!important;
+	width: 75% !important;
+	position: relative;
+	bottom: 30px;
+	
+}
+.a7{
+	background: rgba(0,201,147, 0.85)!important;
+	width: 70% !important;
+	position: relative;
+	bottom: 36px;
+}
+.a8{
+	background: rgba(84,216,168, 0.85)!important;
+	width: 65% !important;
+	position: relative;
+	bottom: 42px;
+}
+.a9{
+	background: rgba(142,226,188, 0.85)!important;
+	width: 60% !important;
+	position: relative;
+	bottom: 48px;
+}
+.a10{
+	background: rgba(155,219,193, 0.85)!important;
+	width: 55% !important;
+	position: relative;
+	bottom: 54px;
 }
